@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End Web<br>🌱 I’m currently learning Python Back-End Developer 
+🌱 I’m currently working on Python Django Back-End Developer 
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SuleymanSamet&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanSamet&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
